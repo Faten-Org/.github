@@ -1,0 +1,7 @@
+{
+    "name": "Python CI",
+    "description": "Start Workflow template to test and lint your Python app",
+    "categories": [
+        "Python"
+    ]
+}
